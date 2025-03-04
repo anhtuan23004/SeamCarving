@@ -60,4 +60,4 @@
 
 I hope that you'll enjoy Seam Carving Visualizer.
 
-**[Phan Anh Tú](https://github.com/pat314)**
+**[Mai Anh Tuấn](https://github.com/anhtuan23004)**
